@@ -15,7 +15,9 @@ Hi! This repository contains my submission to ***qosf QC Mentorship program***. 
 - Design a variational quantum circuit for each of the encodings, uses the column 4 as the target, this is a binary class 0 and 1.
 - You must use the data from column 0 to column 3 for your proposed classifier.
 - Consider the ansatz you are going to design as a layer and find out how many layers are
-necessary to reach the best performance. Analyze and discuss the results.
+necessary to reach the best performance. 
+
+Analyze and discuss the results.
 
 Feel free to use existing frameworks (e.g. PennyLane, Qiskit) for creating and training the circuits.
 
