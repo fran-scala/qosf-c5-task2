@@ -13,7 +13,7 @@ Hi! This repository contains my submission to ***qosf QC Mentorship program***. 
 
 - Encoding the following files in a quantum circuit [mock_train_set.csv](https://drive.google.com/file/d/1PIcC1mJ_xi4u1-2gxyoStg2Rg_joSBIB/view?usp=sharing) and [mock_test_set.csv](https://drive.google.com/file/d/1aapYE69pTeNHZ6u-qKAoLfd1HWZVWPlB/view?usp=sharing) in at least two different ways (these could basis, angle, amplitude, kernel or random encoding).
 - Design a variational quantum circuit for each of the encodings, uses the column 4 as the target, this is a binary class 0 and 1.
-- You must use the data from column0 to column3 for your proposed classifier.
+- You must use the data from column 0 to column 3 for your proposed classifier.
 - Consider the ansatz you are going to design as a layer and find out how many layers are
 necessary to reach the best performance. Analyze and discuss the results.
 
@@ -31,7 +31,7 @@ In order to properly execute everything `Pennylane 0.21.0` and `Matplotlib 3.4.3
 
 ### Repository contents
 
-The repository contains `main.py` that performs the main computation and `cfr_plots.py` which gives some plots useful for the analysis of the different training processes. Things works properly when one first run the `main.py` file and then the `cfr_plots.py` file. Anyway, all the info collected during training and testing were already saved and are made available in the repository (`*.npy`), so one can directly run the `cfr_plots.py` file. In addition, there is also the `Images` folder containing the all the obtained plots.
+The repository contains `main.py` that performs the main computation and `cfr_plots.py` which gives some plots useful for comparing different training processes. Things works properly when one first run the `main.py` file and then the `cfr_plots.py` file. Anyway, all the info collected during training and testing were already saved and are made available in the repository (`*.npy`), so one can directly run the `cfr_plots.py` file. In addition, there is also the `Images` folder containing the all the obtained plots.
 
 ### Summary of the approach
 
