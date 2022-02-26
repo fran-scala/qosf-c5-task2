@@ -31,7 +31,7 @@ In order to properly execute everything `Pennylane 0.21.0` and `Matplotlib 3.4.3
 
 ### Repository contents
 
-The repository contains `main.py` that performs the main computation and `cfr_plots.py` which gives some plots useful for comparing different training processes. Things works properly when one first run the `main.py` file and then the `cfr_plots.py` file. Anyway, all the info collected during training and testing were already saved and are made available in the repository (`*.npy`), so one can directly run the `cfr_plots.py` file. In addition, there is also the `Images` folder containing the all the obtained plots. The complete result analysis is reported in `qosf_c5_task2.pdf`.
+The repository contains the data files `mock_train_set.csv` and `mock_test_set.csv`, the Python scripts `main.py` that performs the main computation and `cfr_plots.py` which gives some plots useful for comparing different training processes. Things works properly when one first run the `main.py` file and then the `cfr_plots.py` file. Anyway, all the info collected during training and testing were already saved and are made available in the repository (`*.npy`), so one can directly run the `cfr_plots.py` file. In addition, there is also the `Images` folder containing the all the obtained plots. The complete result analysis is reported in `qosf_c5_task2.pdf` while the full cohort 5 description of the tasks is provided in the `Cohort_5_Screening_Tasks.pdf`.
 
 ### Summary of the approach
 
