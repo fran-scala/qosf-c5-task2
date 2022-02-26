@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Hi! This repository contains my submission to *qosf QC Mentorship program*. I dealt with Task 2 that is the following:
+Hi! This repository contains my submission to ***qosf QC Mentorship program***. I dealt with Task 2 that is the following:
 
 
 - Encoding the following files in a quantum circuit [mock_train_set.csv](https://drive.google.com/file/d/1PIcC1mJ_xi4u1-2gxyoStg2Rg_joSBIB/view?usp=sharing) and [mock_test_set.csv](https://drive.google.com/file/d/1aapYE69pTeNHZ6u-qKAoLfd1HWZVWPlB/view?usp=sharing) in at least two different ways (these could basis, angle, amplitude, kernel or random encoding).
